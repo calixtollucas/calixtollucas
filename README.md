@@ -1,13 +1,22 @@
-<h3>Hello World! I'm Lucas!</h3>
+<h3>Hello World! I'm Lucas Calixto!</h3>
 
 ---
 
- <p> I'm a Developer with most focus on Back-End that loves Java and its stack. I'm a braziliam, living in João Pessoa and continously progressing with
- this amazing world that is the Software Development World!</p>
+<div>
+ <a href="linkedin.com/in/lucas-lucena-calixto-120435276/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+<p> I'm a Developer with most focus on Back-End that loves Java and its stack. I'm a braziliam, living in João Pessoa and continously progressing with
+this amazing world that is the Software Development World!</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calixtollucas&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calixtollucas&size_weight=0.5&count_weight=0.5&langs_count=6&layout=donut&theme=tokyonight)
+- Actually learning: Angular
 
+<div align="center">
+ <br/>
+ <img height="210cm" src="https://github-readme-stats.vercel.app/api?username=calixtollucas&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true">
+ <img height="210cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calixtollucas&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight">
+ <br/>
+</div>
+ 
 ### My Tech Stack
 I actually work with this tech stack, and i'm continously learning more and more things to be a better developer
 

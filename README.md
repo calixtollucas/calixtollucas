@@ -1,10 +1,22 @@
 <h3>Hello World! I'm Lucas Calixto!</h3>
+<span>
+ 
+</span>
+
 
 ---
-<p> I'm a Developer with most focus on Back-End that loves Java and its stack. I'm a braziliam, living in João Pessoa and continously progressing with
-this amazing world that is the Software Development World!</p>
 
-- Actually learning: Angular
+ <div>
+ <p> I'm a Developer with most focus on Back-End that loves Java and its stack. I'm a braziliam, living in João Pessoa and continously progressing with
+ this amazing world that is the Software Development World!</p>
+
+ - Actually learning: Angular
+
+ </div>
+
+
+
+
 
 <div align="center">
  

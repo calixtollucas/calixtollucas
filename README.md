@@ -1,10 +1,6 @@
 <h3>Hello World! I'm Lucas Calixto!</h3>
 
 ---
-
-<div>
- <a href="linkedin.com/in/lucas-lucena-calixto-120435276/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
 <p> I'm a Developer with most focus on Back-End that loves Java and its stack. I'm a braziliam, living in João Pessoa and continously progressing with
 this amazing world that is the Software Development World!</p>
 

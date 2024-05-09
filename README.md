@@ -22,7 +22,7 @@
  
  <br/>
  
- <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=calixtollucas&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true">
+ <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=calixtollucas&theme=tokyonight&show_icons=true&include_all_commits=true">
  <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calixtollucas&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight">
  
  <br/>
